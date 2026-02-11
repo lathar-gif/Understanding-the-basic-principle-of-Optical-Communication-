@@ -1,8 +1,10 @@
 # Understanding-the-basic-principle-of-Optical-Communication-
 ## Aim: 
-## Measurement of Numerical aperture of the fiber
+ Measurement of Numerical aperture of the fiber
+ ---
 ## Apparatus required:
-## Numerical Aperture measurement Jig
+Numerical Aperture measurement Jig
+---
 ## Procedure:
 ## 1. Connect power supply to the board
 ## 2. Connect one end of fiber cable to the output socket of emitter 1 circuit and the other end to the numerical aperture measurement jig. Hold the white screen facing the fiber such that its cut face is perpendicular to the axis of the fiber.
@@ -15,3 +17,6 @@
 
 ## 6. Vary the distance between the screen and fiber optic cable and make it coincide with one of the concentric circles. Note the distance.
 ## 7. Tabulate the various distances and diameter of the circles made on the white screen and compute the numerical aperture from the formula.
+---
+
+## Result
