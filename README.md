@@ -1,6 +1,6 @@
 # Understanding-the-basic-principle-of-Optical-Communication-
 ## Aim: 
- Measurement of Numerical aperture of the fiber
+Measurement of Numerical aperture of the fiber
  ---
 ## Apparatus required:
 Numerical Aperture measurement Jig
